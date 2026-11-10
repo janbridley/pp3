@@ -2,6 +2,10 @@
 
 A small battery readout for the menu bar.
 
+<p align="center">
+  <img src="docs/pp3-states.svg" alt="pp3 battery icon: 82%, 82% charging, and 100% charging" width="100%">
+</p>
+
 ## Install
 
 ```shell-session

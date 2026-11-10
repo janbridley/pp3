@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">pp3 menu bar battery states</title>
+  <desc id="desc">Three menu bar icons: 82% on battery, 82% charging, and 100% charging.</desc>
+  <style>
+    .icon { color: #15171a; }
+    .card { stroke: #dfe4ea; }
+    @media (prefers-color-scheme: dark) {
+      .icon { color: #f0f3f6; }
+      .card { stroke: #3a4048; }
+    }
+  </style>
+  <g>
+    <rect class="card" x="48" y="40" width="352" height="280" rx="24" fill="none" stroke="#dfe4ea" stroke-width="1.5"/>
+  <g class="icon" color="#15171a" transform="translate(104, 116) scale(4)">
+      <g fill="none" stroke="currentColor" stroke-width="1.8">
+        <rect x="4" y="3" width="46" height="26" rx="2.5"/>
+        <path d="M44 3 V29"/>
+        <path d="M50 7 H52.3 A1.2 1.2 0 0 1 53.5 8.2 V12.3 A1.2 1.2 0 0 1 52.3 13.5 H50"/>
+        <path d="M50 18.5 H53.3 A1.2 1.2 0 0 1 54.5 19.7 V23.8 A1.2 1.2 0 0 1 53.3 25 H50"/>
+      </g>
+      <text x="24" y="22.3" text-anchor="middle" font-size="18" fill="currentColor"
+            font-family="SF Pro Display, Helvetica, Arial, sans-serif" font-weight="700">82</text>
+  </g>
+  </g>
+  <g>
+    <rect class="card" x="424" y="40" width="352" height="280" rx="24" fill="none" stroke="#dfe4ea" stroke-width="1.5"/>
+  <g class="icon" color="#15171a" transform="translate(480, 116) scale(4)">
+      <g fill="none" stroke="currentColor" stroke-width="1.8">
+        <rect x="4" y="3" width="46" height="26" rx="2.5"/>
+        <path d="M44 3 V29"/>
+        <path d="M50 7 H52.3 A1.2 1.2 0 0 1 53.5 8.2 V12.3 A1.2 1.2 0 0 1 52.3 13.5 H50"/>
+        <path d="M50 18.5 H53.3 A1.2 1.2 0 0 1 54.5 19.7 V23.8 A1.2 1.2 0 0 1 53.3 25 H50"/>
+      </g>
+      <path fill="currentColor" fill-rule="evenodd" d="M44 3 H47.5 A2.5 2.5 0 0 1 50 5.5 V26.5 A2.5 2.5 0 0 1 47.5 29 H44 Z M 45.100,16.350 Q 45.100,16.307 45.118,16.269 Q 45.136,16.232 45.167,16.191 L 47.669,13.060 Q 47.729,12.983 47.800,12.966 Q 47.871,12.949 47.928,12.978 Q 47.984,13.007 48.006,13.074 Q 48.027,13.142 47.993,13.236 L 47.159,15.492 L 48.733,15.492 Q 48.808,15.492 48.854,15.538 Q 48.900,15.584 48.900,15.651 Q 48.900,15.692 48.883,15.730 Q 48.866,15.769 48.836,15.809 L 46.333,18.940 Q 46.273,19.015 46.202,19.034 Q 46.132,19.052 46.075,19.022 Q 46.018,18.992 45.995,18.925 Q 45.973,18.859 46.009,18.765 L 46.841,16.506 L 45.269,16.506 Q 45.192,16.506 45.146,16.461 Q 45.100,16.416 45.100,16.350 Z"/>
+      <text x="24" y="22.3" text-anchor="middle" font-size="18" fill="currentColor"
+            font-family="SF Pro Display, Helvetica, Arial, sans-serif" font-weight="700">82</text>
+  </g>
+  </g>
+  <g>
+    <rect class="card" x="800" y="40" width="352" height="280" rx="24" fill="none" stroke="#dfe4ea" stroke-width="1.5"/>
+  <g class="icon" color="#15171a" transform="translate(856, 116) scale(4)">
+      <g fill="none" stroke="currentColor" stroke-width="1.8">
+        <rect x="4" y="3" width="46" height="26" rx="2.5"/>
+        <path d="M44 3 V29"/>
+        <path d="M50 7 H52.3 A1.2 1.2 0 0 1 53.5 8.2 V12.3 A1.2 1.2 0 0 1 52.3 13.5 H50"/>
+        <path d="M50 18.5 H53.3 A1.2 1.2 0 0 1 54.5 19.7 V23.8 A1.2 1.2 0 0 1 53.3 25 H50"/>
+      </g>
+      <path fill="currentColor" fill-rule="evenodd" d="M44 3 H47.5 A2.5 2.5 0 0 1 50 5.5 V26.5 A2.5 2.5 0 0 1 47.5 29 H44 Z M 45.100,16.350 Q 45.100,16.307 45.118,16.269 Q 45.136,16.232 45.167,16.191 L 47.669,13.060 Q 47.729,12.983 47.800,12.966 Q 47.871,12.949 47.928,12.978 Q 47.984,13.007 48.006,13.074 Q 48.027,13.142 47.993,13.236 L 47.159,15.492 L 48.733,15.492 Q 48.808,15.492 48.854,15.538 Q 48.900,15.584 48.900,15.651 Q 48.900,15.692 48.883,15.730 Q 48.866,15.769 48.836,15.809 L 46.333,18.940 Q 46.273,19.015 46.202,19.034 Q 46.132,19.052 46.075,19.022 Q 46.018,18.992 45.995,18.925 Q 45.973,18.859 46.009,18.765 L 46.841,16.506 L 45.269,16.506 Q 45.192,16.506 45.146,16.461 Q 45.100,16.416 45.100,16.350 Z"/>
+      <text x="24" y="22.3" text-anchor="middle" font-size="18" fill="currentColor"
+            font-family="SF Pro Display, Helvetica, Arial, sans-serif" font-weight="700">100</text>
+  </g>
+  </g>
+</svg>
